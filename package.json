@@ -2,7 +2,7 @@
   "name": "pruebas-javascript",
   "version": "1.0.0",
   "description": "Proyecto de pruebas unitarias y cobertura en JavaScript",
-  "main": "src/calculadora.js",
+  "main": "src/bubbleSort.js",
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage"
