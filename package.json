@@ -1,7 +1,7 @@
 {
-  "name": "pruebas-javascript",
+  "name": "bubble-sort-js",
   "version": "1.0.0",
-  "description": "Proyecto de pruebas unitarias y cobertura en JavaScript",
+  "description": "Implementación de Bubble Sort con pruebas unitarias y análisis de cobertura",
   "main": "src/bubbleSort.js",
   "scripts": {
     "test": "jest",
